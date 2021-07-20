@@ -1,0 +1,23 @@
+{
+  "name": "topology-api",
+  "version": "1.0.0",
+  "description": "Provide the functionality to access, manage and store device topologies.",
+  "main": "API.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdallahHussien4/Topology-API.git"
+  },
+  "author": "Abdallah Hussien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdallahHussien4/Topology-API/issues"
+  },
+  "homepage": "https://github.com/AbdallahHussien4/Topology-API#readme"
+}
