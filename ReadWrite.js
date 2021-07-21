@@ -30,7 +30,7 @@ class ReadWrite {
       }
     }
     fs.writeFileSync(
-      "newTopology.json",
+      filename,
       JSON.stringify(Topology, null, "\t"),
       "utf-8"
     );
